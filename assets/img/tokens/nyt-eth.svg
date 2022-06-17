@@ -1,0 +1,27 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_141_102)">
+<ellipse rx="160" ry="160" transform="matrix(-1 0 0 1 160 160)" fill="url(#paint0_angular_141_102)"/>
+<circle r="128" transform="matrix(1 0 0 -1 159 161)" fill="white"/>
+<circle r="105" transform="matrix(1 0 0 -1 159 161)" stroke="white" stroke-opacity="0.24" stroke-width="46"/>
+<g clip-path="url(#clip1_141_102)">
+<path d="M159.382 59L158.008 63.6671V199.084L159.382 200.455L222.24 163.299L159.382 59Z" fill="#343434"/>
+<path d="M159.382 59L96.5225 163.299L159.382 200.455V134.727V59Z" fill="#8C8C8C"/>
+<path d="M159.382 212.356L158.607 213.3V261.538L159.382 263.798L222.278 175.219L159.382 212.356Z" fill="#3C3C3B"/>
+<path d="M159.382 263.798V212.356L96.5225 175.219L159.382 263.798Z" fill="#8C8C8C"/>
+<path d="M159.382 200.455L222.24 163.299L159.382 134.727V200.455Z" fill="#141414"/>
+<path d="M96.5225 163.299L159.382 200.455V134.727L96.5225 163.299Z" fill="#393939"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_angular_141_102" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 160) rotate(90) scale(160)">
+<stop stop-color="#02E7CC"/>
+<stop offset="0.494792" stop-color="#015EFC"/>
+</radialGradient>
+<clipPath id="clip0_141_102">
+<rect width="320" height="320" fill="white"/>
+</clipPath>
+<clipPath id="clip1_141_102">
+<rect width="204.8" height="204.8" fill="white" transform="translate(57 59)"/>
+</clipPath>
+</defs>
+</svg>
